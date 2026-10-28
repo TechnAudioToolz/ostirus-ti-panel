@@ -1,0 +1,6 @@
+build/
+.DS_Store
+__pycache__/
+# Built skin and downloaded TrancyTI files (see tools/fetch_trancyti.py)
+skin/
+reference/

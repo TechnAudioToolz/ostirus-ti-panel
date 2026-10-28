@@ -1,0 +1,137 @@
+/* ---- TI Panel: hardware-style front panel (appended to TrancyTI's stylesheet by build_skin.py) ---- */
+
+.hwPanel
+{
+	decorator: linear-gradient(180deg, #3e4044, #2d2f32);
+}
+
+.hwSection
+{
+	border-width: 2dp;
+	border-color: #6e7278;
+	border-radius: 14dp;
+	background-color: rgba(0, 0, 0, 40);
+}
+
+.hwTitle
+{
+	color: #f2f2f2;
+	font-size: 22dp;
+	font-weight: bold;
+	text-align: center;
+	background-color: #2a2c2f;
+	border-width: 2dp;
+	border-color: #b9bcc0;
+	border-radius: 6dp;
+}
+
+.hwLabel
+{
+	color: #e8e8e8;
+	font-weight: bold;
+	text-align: center;
+	white-space: nowrap;
+	pointer-events: none;
+}
+
+.hwBrand
+{
+	color: #9a9ea4;
+	font-size: 20dp;
+	text-align: center;
+}
+
+.hwKeyText
+{
+	display: block;
+	color: #e4e4e4;
+	font-size: 18dp;
+	font-weight: bold;
+	text-align: center;
+	white-space: nowrap;
+	pointer-events: none;
+}
+
+.hwLedText
+{
+	display: block;
+	color: #e8e8e8;
+	font-size: 21dp;
+	font-weight: bold;
+	text-align: left;
+	white-space: nowrap;
+	pointer-events: none;
+}
+
+.hwCombo
+{
+	color: #f2f2f2;
+	font-size: 22dp;
+	text-align: center;
+	background-color: #141517;
+	border-width: 2dp;
+	border-color: #5a5e64;
+	border-radius: 6dp;
+}
+
+.hwDisplay
+{
+	border-width: 2dp;
+	border-color: #6e7278;
+	border-radius: 14dp;
+	background-color: rgba(0, 0, 0, 40);
+}
+
+.hwLcd
+{
+	background-color: #b9c3c6;
+	border-width: 10dp;
+	border-color: #111214;
+	border-radius: 10dp;
+}
+
+.hwLcdHint
+{
+	color: #4a5660;
+	font-size: 20dp;
+	text-align: left;
+	pointer-events: none;
+}
+
+.hwOverlay
+{
+	background-color: rgba(0, 0, 0, 170);
+}
+
+.hwOverlayFrame
+{
+	background-color: #2b2d30;
+	border-width: 3dp;
+	border-color: #8a8e94;
+	border-radius: 16dp;
+}
+
+.hwOverlayTitle
+{
+	color: #f2f2f2;
+	font-size: 30dp;
+	font-weight: bold;
+	text-align: left;
+}
+
+.hwCloseBtn
+{
+	color: #ffffff;
+	font-size: 30dp;
+	font-weight: bold;
+	text-align: center;
+	background-color: #5a1712;
+	border-width: 3dp;
+	border-color: #ff3b2b;
+	border-radius: 10dp;
+}
+
+.hwCloseBtn:hover
+{
+	background-color: #8a2018;
+}
