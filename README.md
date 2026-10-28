@@ -4,6 +4,8 @@ A skin for [OsTIrus](https://github.com/dsp56300/gearmulator) (gearmulator's Vir
 puts the synth on one page, laid out like the Virus TI desktop's front panel, with dark knobs, red
 LEDs and an LCD. The detailed edit pages open as pop-ups; double-click the LCD to browse patches.
 
+![TI Panel front panel](docs/front-panel.png)
+
 Made for OsTIrus 2.2.27. Built from its TrancyTI skin (GPL-3.0), so this skin is GPL-3.0 as well.
 
 ## Build and install (macOS)
